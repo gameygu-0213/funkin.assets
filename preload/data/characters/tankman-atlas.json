@@ -5,6 +5,7 @@
   "assetPath": "characters/tankman",
   "flipX": true,
   "singTime": 8.0,
+  "healthBarColor": [255, 255, 255],
   "offsets": [200, -550],
   "cameraOffsets": [200, 500],
   "animations": [

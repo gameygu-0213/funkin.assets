@@ -5,6 +5,7 @@
   "healthIcon": {
     "id": "monster"
   },
+  "healthBarColor": [243, 255, 110],
   "animations": [
     {
       "name": "idle",

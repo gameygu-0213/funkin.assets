@@ -5,6 +5,7 @@
   "flipX": true,
   "renderType": "multisparrow",
   "singTime": 8.0,
+  "healthBarColor": [49, 176, 209],
   "healthIcon": {
     "id": "bf"
   },

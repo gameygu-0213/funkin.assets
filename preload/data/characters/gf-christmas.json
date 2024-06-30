@@ -3,6 +3,7 @@
   "name": "Girlfriend (Christmas)",
   "assetPath": "characters/gfChristmas",
   "startingAnimation": "danceLeft",
+  "healthBarColor": [165, 0, 77],
   "animations": [
     {
       "name": "danceLeft",

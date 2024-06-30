@@ -6,6 +6,7 @@
   "healthIcon": {
     "id": "mom"
   },
+  "healthBarColor": [216, 85, 142],
   "cameraOffsets": [0, -100],
   "animations": [
     {

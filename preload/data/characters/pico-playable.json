@@ -6,6 +6,7 @@
     "id": "pico",
     "flipX": false
   },
+  "healthBarColor": [183, 216, 85],
   "death": {
     "cameraOffsets": [10, -40],
     "cameraZoom": 1.0

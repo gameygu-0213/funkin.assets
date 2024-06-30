@@ -8,6 +8,7 @@
   "flipX": true,
   "renderType": "animateatlas",
   "singTime": 999.0,
+  "healthBarColor": [183, 216, 85],
   "death": {
     "preTransitionDelay": 0.125,
     "cameraOffsets": [1700, 1550],

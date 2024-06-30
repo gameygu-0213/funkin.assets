@@ -10,6 +10,7 @@
     "id": "bf-pixel",
     "isPixel": true
   },
+  "healthBarColor": [123, 214, 246],
   "death": {
     "cameraOffsets": [200, 200]
   },

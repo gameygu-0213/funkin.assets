@@ -8,6 +8,7 @@
   "flipX": true,
   "cameraOffsets": [0, 0],
   "singTime": 8,
+  "healthBarColor": [255, 255, 255],
   "startingAnimation": "idle",
   "isPixel": false,
   "assetPath": "characters/tankmanCaptain",

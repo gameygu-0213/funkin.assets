@@ -3,6 +3,7 @@
   "name": "Darnell",
   "assetPath": "characters/darnell",
   "singTime": 8.0,
+  "healthBarColor": [115, 94, 176],
   "offsets": [20, 100],
   "animations": [
     {

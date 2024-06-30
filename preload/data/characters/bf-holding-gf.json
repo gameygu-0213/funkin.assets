@@ -7,6 +7,7 @@
   "healthIcon": {
     "id": "bf"
   },
+  "healthBarColor": [49, 176, 209],
   "animations": [
     {
       "name": "singUP",

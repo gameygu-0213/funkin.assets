@@ -3,6 +3,7 @@
   "name": "Spirit",
   "assetPath": "characters/spirit",
   "singTime": 8.0,
+  "healthBarColor": [255, 60, 110],
   "renderType": "packer",
   "isPixel": true,
   "scale": 6,
